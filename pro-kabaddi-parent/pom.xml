@@ -24,7 +24,7 @@
 
 		<!-- Common Utility -->
 		<commons.dbcp.version>1.4</commons.dbcp.version>
-		<jackson.version>2.0.1</jackson.version>
+		<jackson.version>2.9.10</jackson.version>
 
 		<!-- Database -->
 		<mysql.version>5.1.6</mysql.version>
