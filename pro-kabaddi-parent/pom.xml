@@ -13,7 +13,7 @@
 		<servlet-api.version>3.0.1</servlet-api.version>
 
 		<!-- Spring version -->
-		<spring.version>4.1.4.RELEASE</spring.version>
+		<spring.version>5.3.38</spring.version>
 
 		<!-- CXF Framework -->
 		<cxf.version>3.1.1</cxf.version>
